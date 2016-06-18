@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=startbal\ cname\ cnumber
+comment0.target=customer(double,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=double\ getBalance()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getNumber()
+comment4.params=amt\ rate
+comment4.target=double\ interestAccrued(double,\ double)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

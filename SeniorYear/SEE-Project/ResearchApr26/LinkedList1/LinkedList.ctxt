@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=class\ LinkedList
+comment1.params=index
+comment1.target=void\ remove(int)
+comment2.params=
+comment2.target=void\ outputList()
+comment3.params=
+comment3.target=~instance-init~()
+comment4.target=nodeCount
+comment5.target=list
+comment6.params=N
+comment6.target=void\ add(int)
+comment7.params=N\ index
+comment7.target=void\ add(int,int)
+comment8.params=
+comment8.target=LinkedList()
+comment9.params=N\ index
+comment9.target=void\ set(int,int)
+numComments=10

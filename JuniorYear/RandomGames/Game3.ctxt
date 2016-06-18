@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=void\ main()
+comment1.target=void\ Start()
+comment2.target=void\ Bet()
+comment3.target=void\ check()
+comment4.target=void\ HowToPlay()
+comment5.target=void\ About()
+comment6.target=void\ Quit()
+comment7.params=y
+comment7.target=void\ clearScreen(String)
+comment8.target=void\ YouLose()
+numComments=9

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=void\ enter()
+comment1.params=yearinput
+comment1.target=void\ calculate(int)
+comment2.params=isit
+comment2.target=void\ output(String)
+numComments=3

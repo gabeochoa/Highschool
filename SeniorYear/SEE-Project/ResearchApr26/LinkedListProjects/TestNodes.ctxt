@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=list
+comment1.target=java.lang.String\ getThird(Node)
+comment2.params=list\ s
+comment2.target=void\ insertSecond(Node,\ java.lang.String)
+comment3.params=list
+comment3.target=int\ size(Node)
+comment4.params=list\ s
+comment4.target=void\ addLast(Node,\ java.lang.String)
+comment5.params=list\ s
+comment5.target=void\ addLastTwo(Node,\ java.lang.String)
+comment6.params=list\ s
+comment6.target=Node\ addLastThree(Node,\ java.lang.String)
+numComments=7

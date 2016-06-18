@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h
+comment0.target=OLDSector(int,\ int,\ int,\ int)
+comment1.params=gr
+comment1.target=void\ paint(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ drawSector()
+comment3.params=p
+comment3.target=boolean\ contains(java.awt.Point)
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=void\ main()
+comment1.target=void\ avg1()
+comment2.target=void\ avg2()
+comment3.target=void\ avg3()
+comment4.target=void\ avg4()
+comment5.target=void\ avg5()
+comment6.params=avg
+comment6.target=void\ lgrade(double)
+numComments=7

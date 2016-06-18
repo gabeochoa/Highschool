@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.target=Ball()
+comment1.params=X\ Y\ d\ xs\ ys\ C
+comment1.target=Ball(int,\ int,\ int,\ int,\ int,\ int)
+comment10.target=int\ getCenterY()
+comment11.target=void\ drawBall()
+comment12.target=void\ moveBall()
+comment13.target=void\ moveUp()
+comment14.target=void\ moveDown()
+comment15.target=void\ moveRight()
+comment16.target=void\ moveLeft()
+comment17.params=P1
+comment17.target=void\ setX(Ball)
+comment18.params=P1
+comment18.target=void\ setY(Ball)
+comment19.params=P1
+comment19.target=void\ setXL(Ball)
+comment2.target=void\ changeDirection()
+comment20.params=P1
+comment20.target=void\ setYD(Ball)
+comment21.params=P1
+comment21.target=void\ setXR(Ball)
+comment22.params=P1
+comment22.target=void\ setYU(Ball)
+comment23.params=gr
+comment23.target=void\ paint(Graphics)
+comment23.text=public\ boolean\ collision(Rectangle\ R)\n{\nboolean\ hit\ \=\ false;\n\nint\ rX\ \=\ R.getX();\nint\ rY\ \=\ R.getY();\nint\ xEdge\ \=\ R.getXEdge();\nint\ yEdge\ \=\ R.getYEdge();\ndouble\ dist\ \=\ 0;\ \n\nint\ xSq\ \=\ (centerX\ -\ xEdge)*(centerX\ -\ xEdge);\nint\ ySq\ \=\ 0;\n//Check\ right\ side\ of\ rectangle\nfor(int\ i\ \=\ rY;\ i\ <\=\ yEdge;\ i++)\n{\nySq\ \=\ (centerY\ -\ i)*(centerY\ -\ i);\ndist\ \=\ Math.sqrt((xSq\ +\ ySq));\nif((radius\ +\ 2\ >\=\ dist))\n{\n\nchangeXDir();\nhit\ \=\ true;\nbreak;\n}\n\n}//end\ check\ right\nxSq\ \=\ (centerX\ -\ rX)*(centerX\ -\ rX);\n//check\ left\ side\ of\ rectangle\nfor(int\ i\ \=\ rY;\ i\ <\=\ yEdge;\ i++)\n{\n\nySq\ \=\ (centerY\ -\ i)*(centerY\ -\ i);\ndist\ \=\ Math.sqrt((xSq\ +\ ySq));\nif((radius\ +\ 2\ \ >\=\ dist))\n{\n\nchangeXDir();\nhit\ \=\ true;\nbreak;\n}\ \n}\n\nySq\ \=\ (centerY\ -\ rY)*(centerY\ -\ rY);\n\nfor(int\ i\ \=\ rX;\ i\ <\=\ xEdge;\ i++)\n{\nxSq\ \=\ (centerX\ -\ i)*(centerX\ -\ i);\ndist\ \=\ Math.sqrt((xSq\ +\ ySq));\nif((radius+2>\=\ dist))\n{\n\nchangeYDir();\nhit\ \=\ true;\nbreak;\n}\ \n}\n\nySq\ \=\ (centerY\ -\ yEdge)*(centerY\ -\ yEdge);\n\nfor(int\ i\ \=\ rX;\ i\ <\=\ xEdge;\ i++)\n{\nxSq\ \=\ (centerX\ -\ i)*(centerX\ -\ i);\ndist\ \=\ Math.sqrt((xSq\ +\ ySq));\nif((radius\ +\ 2\ >\=\ dist\ -\ 2))\n{\n\nchangeYDir();\nhit\ \=\ true;\nbreak;\n}\ \n}\n\nreturn\ hit;\n\n}\n
+comment3.target=void\ changeXDir()
+comment4.target=void\ changeYDir()
+comment5.target=int\ getX()
+comment6.target=int\ getY()
+comment7.target=int\ getRadius()
+comment8.target=int\ getDiameter()
+comment9.target=int\ getCenterX()
+numComments=24

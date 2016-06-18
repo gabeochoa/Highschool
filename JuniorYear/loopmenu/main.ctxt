@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=main
+comment0.target=void\ clearScreen(String)
+comment1.target=void\ main()
+comment2.target=void\ Mean()
+comment3.target=void\ Median()
+comment4.target=void\ Max()
+comment5.target=void\ Min()
+comment6.target=void\ tryagain()
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=BallAI(int,\ int)
+comment1.params=player
+comment1.target=void\ moveBall(Ball)
+comment2.params=
+comment2.target=void\ attack()
+comment3.params=
+comment3.target=void\ moveAlongGrid()
+comment4.params=
+comment4.target=java.awt.Point\ getPoint()
+numComments=5

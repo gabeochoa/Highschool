@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=void\ clearScreen()
+comment1.target=void\ main()
+comment2.target=void\ input()
+comment3.params=a\ b\ c
+comment3.target=void\ math(double,\ double,\ double)
+comment4.params=sr\ atwo\ bneg
+comment4.target=void\ neginsideradical(double,\ double,\ double)
+comment5.params=sqrootimag\ bneg\ srimag\ atwo
+comment5.target=void\ round(double,\ double,\ double,\ double)
+comment6.params=a\ b\ c
+comment6.target=void\ nowork(double,\ double,\ double)
+numComments=7

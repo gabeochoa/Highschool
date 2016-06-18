@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ printCust()
+comment2.params=A
+comment2.target=customer[]\ getArray(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ searchID()
+comment4.params=
+comment4.target=void\ searchLastName()
+comment5.params=
+comment5.target=void\ searchBalance()
+numComments=6

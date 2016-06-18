@@ -1,0 +1,30 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.6.0_10\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.6
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+H:\Java\Quarter1\Guessing Game\Guessing Game\doc
+-classpath
+C:\BlueJ\lib\bluejcore.jar;C:\BlueJ\lib\junit.jar;H:\Java\Quarter1\Guessing Game\Guessing Game
+H:\Java\Quarter1\Guessing Game\Guessing Game\main.java
+<---- end of javadoc command ---->
+Loading source file H:\Java\Quarter1\Guessing Game\Guessing Game\main.java...
+H:\Java\Quarter1\Guessing Game\Guessing Game\main.java:16: <identifier> expected
+    int num = rand.int();
+                   ^
+H:\Java\Quarter1\Guessing Game\Guessing Game\main.java:16: illegal start of expression
+    int num = rand.int();
+                       ^
+H:\Java\Quarter1\Guessing Game\Guessing Game\main.java:16: not a statement
+    int num = rand.int();
+                      ^
+3 errors

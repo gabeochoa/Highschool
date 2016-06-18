@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=void\ main()
+comment1.target=void\ all()
+comment10.target=void\ alpha()
+comment11.target=void\ s1first()
+comment12.target=void\ s1second()
+comment13.target=void\ s1last()
+comment14.target=void\ input()
+comment15.target=void\ Quit()
+comment16.target=void\ menu()
+comment17.target=void\ clearScreen()
+comment2.target=void\ longest()
+comment3.target=void\ first()
+comment4.target=String\ returnfirst()
+comment5.target=void\ split()
+comment6.target=void\ numg()
+comment7.params=h1
+comment7.target=int\ countg(char)
+comment8.target=void\ numt()
+comment9.params=h1
+comment9.target=int\ countt(char)
+numComments=18

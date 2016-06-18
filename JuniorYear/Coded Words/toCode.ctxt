@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ blue()
+comment1.params=str
+comment1.target=void\ toDecimal(java.lang.String)
+comment2.params=hl
+comment2.target=java.lang.String\ decode(java.lang.String)
+comment3.params=h1
+comment3.target=java.lang.String\ hexlet(java.lang.String)
+numComments=4
